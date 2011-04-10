@@ -1,7 +1,7 @@
 sm2tap
 ======
 
-StepMania to Tap Studio convertor. (Requires jailbroken iDevice)
+StepMania to Tap Studio convertor. (Requires a Mac and a jailbroken iDevice)
 
 Please read [my blog post](http://blog.dt.in.th/2011/02/sm2tap/) for more info.
 
